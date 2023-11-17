@@ -33,5 +33,5 @@ void bubble_sort(int *array, size_t size)
 
 		if (swp == 0)
 			break;
-    }
+	}
 }
