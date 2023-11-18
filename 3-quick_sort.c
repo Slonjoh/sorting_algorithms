@@ -35,7 +35,7 @@ void qs_recursive(int *array, int low, int high, size_t size)
 }
 
 /**
- * lomuto_partition - Lomuto partition scheme for Quick Sort
+ * partition - Lomuto partition scheme for Quick Sort
  *
  * @array: The array to be sorted
  * @low: Starting index of the partition
