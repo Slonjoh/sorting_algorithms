@@ -13,7 +13,8 @@ Project is about sorting algorithms and data structure.The aim is to learn about
 - Ubuntu linux
 
 ## Files
-
+- 0-bubble_sort.c : A function that sorts an array of integers in ascending order using the Bubble sort algorithm.
+- 0-O : The big O notations of the time complexity of the 0-bubble_sort.c.
 
 
 ## Authors
