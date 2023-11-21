@@ -15,7 +15,10 @@ Project is about sorting algorithms and data structure.The aim is to learn about
 ## Files
 - 0-bubble_sort.c : A function that sorts an array of integers in ascending order using the Bubble sort algorithm.
 - 0-O : The big O notations of the time complexity of the 0-bubble_sort.c.
-
+- 1-insertion_sort_list.c : A function that sorts a doubly linked list of integers in ascending order using the Insertion sort algorithm.
+- 1-O : The big O notations of the time complexity of the 1-insertion_sort_list.c.
+- 2-selection_sort.c : A function that sorts an array of integers in ascending order using the Selection sort algorithm.
+- 2-O : The big O notations of the time complexity of the 2-selection_sort.c.
 
 ## Authors
 - Oluwatobiloba Ojo(Slonjoh)
